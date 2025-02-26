@@ -6,7 +6,7 @@ RecoilControlMode = "Medium" --- Presets: "Low", "Medium", "High", "Ultra", "Ins
 
 RcCustomStrength = 7 -- Value MUST be ROUNDED! No Decimal values such as 6.5!
 
-RequireToggle = false -- Change to false if you want it to always be on.
+RequireToggle = true -- Change to false if you want it to always be on.
 
 ToggleKey = "CapsLock" -- Usable Keys: "CapsLock", "NumLock", "ScrollLock"
 
